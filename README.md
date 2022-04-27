@@ -1,10 +1,9 @@
 <h1 align="center">Hi 👋, I'm Damiano Gianotti</h1>
 <h3 align="center">A passionate data scientists from Italy</h3>
-<img align="right" alt="Coding" width="400" src="https://i.makeagif.com/media/6-16-2020/F0wDfd.gif">
-
+<p></p>
+<p></p>
+<img align="right" alt="Coding in olivetti stile" width="450" src="https://i.makeagif.com/media/6-16-2020/F0wDfd.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=d3miangianoz&label=Profile%20views&color=0e75b6&style=flat" alt="d3miangianoz" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=d3miangianoz" alt="d3miangianoz" /></a> </p>
 
 - 🔭 I’m currently working on [Scala history with Pandas 🐼](https://app.datacamp.com/workspace/w/1c10467c-5161-4bec-8e77-f6b66a68230c)
 
@@ -16,6 +15,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+
 <a href="https://linkedin.com/in/damiano-gianotti-1337x" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="damiano-gianotti-1337x" height="30" width="40" /></a>
 </p>
 
