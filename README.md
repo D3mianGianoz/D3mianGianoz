@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damiano Gianotti</h1>
-<h3 align="center">A passionate data scientists from Italy</h3>
+<h3 align="center">A passionate doctoral candidate from Italy</h3>
 <p></p>
 <p></p>
 <p align="right">
@@ -7,9 +7,9 @@
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=d3miangianoz&label=Profile%20views&color=0e75b6&style=flat" alt="d3miangianoz" /></p>
 
-- 🔭 I’m currently working on [scala history with pandas 🐼](https://app.datacamp.com/workspace/w/1c10467c-5161-4bec-8e77-f6b66a68230c)
+- 🔭 I’m currently working on [analyzing crimes rate](https://app.datacamp.com/workspace/w/d9488295-438a-4273-9aca-3a16183c4e39/edit)
 - 🌱 I’m currently learning **[seaborn](https://seaborn.pydata.org/) 🌊**
-- 💬 Ask me about **sensor data, time series, python**
+- 💬 Ask me about **sensor data, anomaly detection, time series**
 - 📫 How to reach me **damiano.gianotti@vub.be**
 
 <h3 align="left">Connect with me:</h3>
@@ -51,9 +51,6 @@
 	<a href="https://www.haskell.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/1/1c/Haskell-Logo.svg" alt="haskell" width="35" height="35" /> </a>
 	<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="35" height="35" />
-	</a>
- 	<a href="https://www.w3.org/css/" target="_blank" rel="noreferrer">
-		<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg" alt="css3" width="35" height="35" />
 	</a>
 	<a href="https://www.java.com" target="_blank" rel="noreferrer">
 		<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="35" height="35" />
