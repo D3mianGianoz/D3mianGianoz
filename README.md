@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Damiano Gianotti</h1>
-<h3 align="center">A passionate doctoral candidate from Italy</h3>
+<h3 align="center">A passionate PhD student from Italy</h3>
 <p></p>
 <p></p>
 <p align="right">
@@ -7,9 +7,9 @@
 </p>
 <p align="left"><img src="https://komarev.com/ghpvc/?username=d3miangianoz&label=Profile%20views&color=0e75b6&style=flat" alt="d3miangianoz" /></p>
 
-- 🔭 I’m currently working on [analyzing crimes rate](https://app.datacamp.com/workspace/w/d9488295-438a-4273-9aca-3a16183c4e39/edit)
-- 🌱 I’m currently learning **[seaborn](https://seaborn.pydata.org/) 🌊**
-- 💬 Ask me about **sensor data, anomaly detection, time series**
+- 🔭 I’m currently working on [sensor data-faults detection](https://dl.acm.org/doi/10.1145/1525856.1525863)
+- 🌱 I’m currently learning [offline change point detection](https://centre-borelli.github.io/ruptures-docs/getting-started/basic-usage/#change-point-detection) 
+- 💬 Ask me about **sensor, IoT, anomaly detection, time series**
 - 📫 How to reach me **damiano.gianotti@vub.be**
 
 <h3 align="left">Connect with me:</h3>
